@@ -1,0 +1,7 @@
+train: train_gan/images/train  # train images (relative to 'path') 118287 images
+val: train_gan/images/val # val images (relative to 'path') 5000 images
+
+# Classes
+nc: 3  # number of classes
+names: ['febri', 'reivan', 'zul']  # class names
+#Febri, reivan, zul //dataset zul
